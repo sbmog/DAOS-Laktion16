@@ -1,3 +1,4 @@
+package eksPaaKlassen;
 
 public class BankAccountTraad2 extends Thread {
 

@@ -1,3 +1,5 @@
+package eksPaaKlassen;
+
 public class BankAccount {
 
     private double balance;

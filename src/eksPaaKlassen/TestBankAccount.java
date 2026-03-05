@@ -1,3 +1,5 @@
+package eksPaaKlassen;
+
 public class TestBankAccount {
 
     public static void main(String[] args) {
